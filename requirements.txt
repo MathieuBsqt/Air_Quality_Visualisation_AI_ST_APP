@@ -1,0 +1,9 @@
+matplotlib
+numpy
+sklearn
+streamlit
+streamlit_option_menu
+datetime
+pandas
+calmap
+pydeck
